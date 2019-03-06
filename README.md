@@ -9,4 +9,3 @@ Fully Featured datetimepicker
 $ bower install jquery-datetimepicker --save
 ```
 
-check the demo
